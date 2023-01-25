@@ -1,7 +1,7 @@
 # Resolution-of-Practical-SQL-Cases
 This repository contains resolution of practical cases applying the use of SQL
-  And cointa
-  
-  For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+I contains the following cases:
+
+ * [Case #1](https://github.com/FlavioACR/Resolution-of-Practical-SQL-Cases/blob/main/Case%20%231.md).
 
 

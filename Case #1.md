@@ -24,10 +24,6 @@ Danny has shared with you 3 key datasets for this case study:
 
 You can inspect the entity relationship diagram and example data below.
 
-# **Entity Relationship Diagram:**
-
-![Untitled](Case%20#1%20Danny%E2%80%99s%20Dineer%2043d9ff091a994208aebd5fb77e41069e/Untitled.png)
-
 # **Example Datasets**
 
 All datasets exist within the `dannys_diner` database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
